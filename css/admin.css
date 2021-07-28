@@ -1,0 +1,19 @@
+@@-37,7 +37,7 @@ header {
+    float: left;
+    box-sizing: border-box;
+    padding: 40px 100px 100px;
+    overflow: scroll;
+    overflow-y: scroll;
+    background: #fff;
+  }
+  .navbar{
+    float:left;
+  }
+  .form-row{
+margin-right: -5x;
+margin-left: 247px;
+  }
+  .d-flex-table-data .table .tbody{
+    margin-right: -5x;
+margin-left: 247px;
+  }
